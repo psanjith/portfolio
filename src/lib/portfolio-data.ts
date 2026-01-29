@@ -155,13 +155,13 @@ export const portfolio = {
       year: "2024",
       description:
         "Robust banking system demonstrating OOP principles with comprehensive testing and error handling.",
-      stack: ["Java", "JUnit", "OOP Design Patterns"],
+      stack: ["Python", "OOP Design Patterns", "pytest"],
       highlights: [
-        "Simulates menu-driven banking flows with a JUnit suite covering edge cases and regressions.",
+        "Simulates menu-driven banking flows with comprehensive testing covering edge cases and regressions.",
         "Reduced code redundancy by 30% through strategic inheritance and polymorphism.",
         "Implemented fault-tolerant exception handling to prevent runtime failures.",
       ],
-      links: [{ label: "Live", href: "#" }],
+      links: [{ label: "GitHub", href: "https://github.com/psanjith/banking-sys" }],
     },
   ] satisfies PortfolioProject[],
   experience: [
