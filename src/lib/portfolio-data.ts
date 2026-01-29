@@ -249,6 +249,7 @@ export const portfolio = {
       bullets: [
         "\"In many squadrons across Canada the WO2 is the highest ranked cadet, which makes him/her \"The Leader\". Cadets achieving this rank are trained as leaders and they get to collaborate with officers in the organization of activities for the squadron. Warrant Officers Second Class are senior cadets who must perform to a very high level and take care of many responsibilities.\"",
         "— Red Deer Air Cadets (https://www.reddeeraircadets.com/air-cadet-ranks.html)",
+        "[View Recommendation Letter (PDF)](/cadetrecletter.pdf)",
       ],
       media: [
         {
